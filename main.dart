@@ -5,7 +5,8 @@ class UserAccount {
   UserAccount(this.username, this.email);
 
   void displayInfo() {
-    print("User: $username \vert{} Email:$email");
+    print("User: $username");
+    print("Email: $email");
   }
 
   Future<String> saveProfileData() async {
