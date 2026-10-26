@@ -16,6 +16,8 @@ This Dart program demonstrates asynchronous programming using `Future`, `async`,
 ---
 
 ## How to Run
+1. Open [DartPad](https://dartpad.dev/).
+2. Paste the code from `main.dart`.
+3. Click Run.
+- **Institution:** National Teachers College
 
-```bash
-dart run main.dart
